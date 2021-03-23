@@ -1,0 +1,7 @@
+pandas
+uvicorn
+fastapi
+numpy
+gunicorn
+pydantic
+websockets
