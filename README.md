@@ -15,7 +15,7 @@ FastAPI
 ```
 
 ### Deployed:
-
+https://fake-data-generator-api.herokuapp.com/
 
 ### Usage:
 - GET male name:
